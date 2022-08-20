@@ -11,7 +11,7 @@
     ### Links
 
     - Solution URL: [https://github.com/Peteonthebeat/Stats-Preview-Card-Component.git]
-    - Live Site URL: [https://peteonthebeat.github.io/Order-Summary-Component/]
+    - Live Site URL: [https://peteonthebeat.github.io/Stats-Preview-Card-Component/]
 
     ## My process
 
