@@ -109,7 +109,11 @@ span {
 
 @media (min-width: 1200px) {
   body {
-    padding: 20em;
+    padding: 27em;
+  }
+  
+  span {
+    font-size: 2.5em;
   }
 }
 
@@ -140,7 +144,7 @@ span {
   }
 
   .card {
-    padding: 5em;
+    padding: 4.5em;
     grid-area: card;
     text-align: justify;
     border-radius: 1em 0 0 1em;
