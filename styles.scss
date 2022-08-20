@@ -33,16 +33,16 @@ body {
 }
 
 /* Image - Header */
-header {
-  position: relative;
-}
+
+
 
 img {
   width: 100%;
   height: auto;
+
   filter: invert(10%) sepia(10%) saturate(10000%) hue-rotate(251deg)
     brightness(45%) contrast(90%);
-  border-radius: 0.5em 0.5em 0 0;
+  border-radius: 0.5em 0.5em 0 0; 
 }
 
 /* Card and Stuff */
@@ -104,6 +104,9 @@ span {
 @media (min-width: 900px) {
   body {
     padding: 15em;
+  }
+  span {
+    font-size: 2.5em;
   }
 }
 
