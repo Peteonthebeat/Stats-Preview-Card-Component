@@ -1,57 +1,57 @@
-# Frontend Mentor - Stats preview card component
+    # Frontend Mentor - Stats preview card component
 
-## Overview
+    ## Overview
 
-### The challenge
+    ### The challenge
 
-### Screenshot
+    ### Screenshot
 
-![](./Order Summary Component Screen Shot.png)
+    ![](./Order Summary Component Screen Shot.png)
 
-### Links
+    ### Links
 
-- Solution URL: [https://github.com/Peteonthebeat/Order-Summary-Component.git]
-- Live Site URL: [https://peteonthebeat.github.io/Order-Summary-Component/]
+    - Solution URL: [https://github.com/Peteonthebeat/Stats-Preview-Card-Component.git]
+    - Live Site URL: [https://peteonthebeat.github.io/Order-Summary-Component/]
 
-## My process
+    ## My process
 
-As mentioned in my previous, I do the entire HTML first; this sorta becomes my workflow or something. Next, I add a little reset to and import the fonts to my scss file and begin testing the CSS I have in mind in Chrome Dev Tools.
+    As mentioned in my previous, I do the entire HTML first; this sorta becomes my workflow or something. Next, I add a little reset to and import the fonts to my scss file and begin testing the CSS I have in mind in Chrome Dev Tools.
 
-### Built with
+    ### Built with
 
-- Semantic HTML5 markup
-- CSS custom properties
-- Flexbox
-- CSS Grid
-- Mobile-first workflow
+    - Semantic HTML5 markup
+    - CSS custom properties
+    - Flexbox
+    - CSS Grid
+    - Mobile-first workflow
 
-**Note: These are just examples. Delete this note and replace the list above with your own choices**
+    **Note: These are just examples. Delete this note and replace the list above with your own choices**
 
-### What I learned
+    ### What I learned
 
-— The main things I was happy to exercise were media queries and grid-template-areas.
+    — The main things I was happy to exercise were media queries and grid-template-areas.
 
-— I also found that super cool property:
-filter: invert(10%) sepia(10%) saturate(10000%) hue-rotate(251deg) brightness(45%) contrast(90%);
-which appears to have an actual knob in chrome Devtools; I really dig that.
+    — I also found that super cool property:
+    filter: invert(10%) sepia(10%) saturate(10000%) hue-rotate(251deg) brightness(45%) contrast(90%);
+    which appears to have an actual knob in chrome Devtools; I really dig that.
 
-### Continued development
+    ### Continued development
 
-Basically, I'll purchase the Pro version of FrontEnd mentor and start messing with the more sophisticated challenges.
+    Basically, I'll purchase the Pro version of FrontEnd mentor and start messing with the more sophisticated challenges.
 
-### Useful resources
+    ### Useful resources
 
-- [Example resource 1](https://www.w3schools.com/css/css_margin.asp) - It may sound too newbie-ish but learning about the miraculous 'margin: auto' saved me tons of hassle.
+    - [Example resource 1](https://www.w3schools.com/css/css_margin.asp) - It may sound too newbie-ish but learning about the miraculous 'margin: auto' saved me tons of hassle.
 
-## Author
+    ## Author
 
-- Tech Unboxing YouTube Channel — [POTB Tech] (https://www.youtube.com/channel/UCLwFWrYji6b5UcHQ7o4BEvg)
-- Occult and Spirituality YouTube Channel — [POTB] (https://www.youtube.com/c/POTBOccult)
-- Fitness and Health YouTube Channel — [Peteonthebeat] (https://www.youtube.com/peteonthebeat1)
-- Website - [Add your name here](https://www.peteonthebeat.com)
-- Frontend Mentor - [@peteonthebeat](https://www.frontendmentor.io/profile/peteonthebeat)
-- Twitter - [@yourusername](https://www.twitter.com/peteonthebeat1)
+    - Tech Unboxing YouTube Channel — [POTB Tech] (https://www.youtube.com/channel/UCLwFWrYji6b5UcHQ7o4BEvg)
+    - Occult and Spirituality YouTube Channel — [POTB] (https://www.youtube.com/c/POTBOccult)
+    - Fitness and Health YouTube Channel — [Peteonthebeat] (https://www.youtube.com/peteonthebeat1)
+    - Website - [Add your name here](https://www.peteonthebeat.com)
+    - Frontend Mentor - [@peteonthebeat](https://www.frontendmentor.io/profile/peteonthebeat)
+    - Twitter - [@yourusername](https://www.twitter.com/peteonthebeat1)
 
-## Acknowledgments
+    ## Acknowledgments
 
-I want to give shout-outs to @correlucas on the FrontEnd mentor website. Whenever he comments on my solutions, he always provides super-helpful tips to consider.
+    I want to give shout-outs to @correlucas on the FrontEnd mentor website. Whenever he comments on my solutions, he always provides super-helpful tips to consider.
